@@ -1,0 +1,15 @@
+Línea 1
+Línea 2
+Línea 3
+Línea 1
+Línea 2
+Línea 3
+Texto para el archivo 3 - línea 1
+Texto para el archivo 3 - línea 2
+Texto para el archivo 3 - línea 3
+Texto para el archivo 3 - línea 1
+Texto para el archivo 3 - línea 2
+Texto para el archivo 3 - línea 3
+Texto para el archivo 3 - línea 1
+Texto para el archivo 3 - línea 2
+Texto para el archivo 3 - línea 3
